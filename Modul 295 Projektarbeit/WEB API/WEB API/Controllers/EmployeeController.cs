@@ -10,6 +10,4 @@ public class EmployeeController : ControllerBase
     {
         _context = context;
     }
-
-    
 }

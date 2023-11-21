@@ -150,3 +150,79 @@ C:\Users\aimoa\OneDrive - ipso! Bildung\Modul 295\Projektarbeit\Modul 295 Projek
 C:\Users\aimoa\OneDrive - ipso! Bildung\Modul 295\Projektarbeit\Modul 295 Projektarbeit\WEB API\WEB API\obj\Debug\net7.0\WEB API.pdb
 C:\Users\aimoa\OneDrive - ipso! Bildung\Modul 295\Projektarbeit\Modul 295 Projektarbeit\WEB API\WEB API\obj\Debug\net7.0\WEB API.genruntimeconfig.cache
 C:\Users\aimoa\OneDrive - ipso! Bildung\Modul 295\Projektarbeit\Modul 295 Projektarbeit\WEB API\WEB API\obj\Debug\net7.0\ref\WEB API.dll
+C:\Github\Modul-295-Projektarbeit\Modul 295 Projektarbeit\WEB API\WEB API\bin\Debug\net7.0\appsettings.Development.json
+C:\Github\Modul-295-Projektarbeit\Modul 295 Projektarbeit\WEB API\WEB API\bin\Debug\net7.0\appsettings.json
+C:\Github\Modul-295-Projektarbeit\Modul 295 Projektarbeit\WEB API\WEB API\bin\Debug\net7.0\WEB API.exe
+C:\Github\Modul-295-Projektarbeit\Modul 295 Projektarbeit\WEB API\WEB API\bin\Debug\net7.0\WEB API.deps.json
+C:\Github\Modul-295-Projektarbeit\Modul 295 Projektarbeit\WEB API\WEB API\bin\Debug\net7.0\WEB API.runtimeconfig.json
+C:\Github\Modul-295-Projektarbeit\Modul 295 Projektarbeit\WEB API\WEB API\bin\Debug\net7.0\WEB API.dll
+C:\Github\Modul-295-Projektarbeit\Modul 295 Projektarbeit\WEB API\WEB API\bin\Debug\net7.0\WEB API.pdb
+C:\Github\Modul-295-Projektarbeit\Modul 295 Projektarbeit\WEB API\WEB API\bin\Debug\net7.0\Azure.Core.dll
+C:\Github\Modul-295-Projektarbeit\Modul 295 Projektarbeit\WEB API\WEB API\bin\Debug\net7.0\Azure.Identity.dll
+C:\Github\Modul-295-Projektarbeit\Modul 295 Projektarbeit\WEB API\WEB API\bin\Debug\net7.0\Humanizer.dll
+C:\Github\Modul-295-Projektarbeit\Modul 295 Projektarbeit\WEB API\WEB API\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Github\Modul-295-Projektarbeit\Modul 295 Projektarbeit\WEB API\WEB API\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Github\Modul-295-Projektarbeit\Modul 295 Projektarbeit\WEB API\WEB API\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Github\Modul-295-Projektarbeit\Modul 295 Projektarbeit\WEB API\WEB API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Github\Modul-295-Projektarbeit\Modul 295 Projektarbeit\WEB API\WEB API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Github\Modul-295-Projektarbeit\Modul 295 Projektarbeit\WEB API\WEB API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Github\Modul-295-Projektarbeit\Modul 295 Projektarbeit\WEB API\WEB API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Github\Modul-295-Projektarbeit\Modul 295 Projektarbeit\WEB API\WEB API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Github\Modul-295-Projektarbeit\Modul 295 Projektarbeit\WEB API\WEB API\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Github\Modul-295-Projektarbeit\Modul 295 Projektarbeit\WEB API\WEB API\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Github\Modul-295-Projektarbeit\Modul 295 Projektarbeit\WEB API\WEB API\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Github\Modul-295-Projektarbeit\Modul 295 Projektarbeit\WEB API\WEB API\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Github\Modul-295-Projektarbeit\Modul 295 Projektarbeit\WEB API\WEB API\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Github\Modul-295-Projektarbeit\Modul 295 Projektarbeit\WEB API\WEB API\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Github\Modul-295-Projektarbeit\Modul 295 Projektarbeit\WEB API\WEB API\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Github\Modul-295-Projektarbeit\Modul 295 Projektarbeit\WEB API\WEB API\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Github\Modul-295-Projektarbeit\Modul 295 Projektarbeit\WEB API\WEB API\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Github\Modul-295-Projektarbeit\Modul 295 Projektarbeit\WEB API\WEB API\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Github\Modul-295-Projektarbeit\Modul 295 Projektarbeit\WEB API\WEB API\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Github\Modul-295-Projektarbeit\Modul 295 Projektarbeit\WEB API\WEB API\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Github\Modul-295-Projektarbeit\Modul 295 Projektarbeit\WEB API\WEB API\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Github\Modul-295-Projektarbeit\Modul 295 Projektarbeit\WEB API\WEB API\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Github\Modul-295-Projektarbeit\Modul 295 Projektarbeit\WEB API\WEB API\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Github\Modul-295-Projektarbeit\Modul 295 Projektarbeit\WEB API\WEB API\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Github\Modul-295-Projektarbeit\Modul 295 Projektarbeit\WEB API\WEB API\bin\Debug\net7.0\System.CodeDom.dll
+C:\Github\Modul-295-Projektarbeit\Modul 295 Projektarbeit\WEB API\WEB API\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Github\Modul-295-Projektarbeit\Modul 295 Projektarbeit\WEB API\WEB API\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Github\Modul-295-Projektarbeit\Modul 295 Projektarbeit\WEB API\WEB API\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Github\Modul-295-Projektarbeit\Modul 295 Projektarbeit\WEB API\WEB API\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Github\Modul-295-Projektarbeit\Modul 295 Projektarbeit\WEB API\WEB API\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Github\Modul-295-Projektarbeit\Modul 295 Projektarbeit\WEB API\WEB API\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Github\Modul-295-Projektarbeit\Modul 295 Projektarbeit\WEB API\WEB API\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Github\Modul-295-Projektarbeit\Modul 295 Projektarbeit\WEB API\WEB API\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Github\Modul-295-Projektarbeit\Modul 295 Projektarbeit\WEB API\WEB API\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Github\Modul-295-Projektarbeit\Modul 295 Projektarbeit\WEB API\WEB API\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Github\Modul-295-Projektarbeit\Modul 295 Projektarbeit\WEB API\WEB API\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Github\Modul-295-Projektarbeit\Modul 295 Projektarbeit\WEB API\WEB API\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Github\Modul-295-Projektarbeit\Modul 295 Projektarbeit\WEB API\WEB API\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Github\Modul-295-Projektarbeit\Modul 295 Projektarbeit\WEB API\WEB API\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Github\Modul-295-Projektarbeit\Modul 295 Projektarbeit\WEB API\WEB API\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Github\Modul-295-Projektarbeit\Modul 295 Projektarbeit\WEB API\WEB API\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Github\Modul-295-Projektarbeit\Modul 295 Projektarbeit\WEB API\WEB API\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Github\Modul-295-Projektarbeit\Modul 295 Projektarbeit\WEB API\WEB API\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Github\Modul-295-Projektarbeit\Modul 295 Projektarbeit\WEB API\WEB API\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Github\Modul-295-Projektarbeit\Modul 295 Projektarbeit\WEB API\WEB API\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Github\Modul-295-Projektarbeit\Modul 295 Projektarbeit\WEB API\WEB API\obj\Debug\net7.0\WEB API.csproj.AssemblyReference.cache
+C:\Github\Modul-295-Projektarbeit\Modul 295 Projektarbeit\WEB API\WEB API\obj\Debug\net7.0\WEB API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Github\Modul-295-Projektarbeit\Modul 295 Projektarbeit\WEB API\WEB API\obj\Debug\net7.0\WEB API.AssemblyInfoInputs.cache
+C:\Github\Modul-295-Projektarbeit\Modul 295 Projektarbeit\WEB API\WEB API\obj\Debug\net7.0\WEB API.AssemblyInfo.cs
+C:\Github\Modul-295-Projektarbeit\Modul 295 Projektarbeit\WEB API\WEB API\obj\Debug\net7.0\WEB API.csproj.CoreCompileInputs.cache
+C:\Github\Modul-295-Projektarbeit\Modul 295 Projektarbeit\WEB API\WEB API\obj\Debug\net7.0\WEB API.MvcApplicationPartsAssemblyInfo.cs
+C:\Github\Modul-295-Projektarbeit\Modul 295 Projektarbeit\WEB API\WEB API\obj\Debug\net7.0\WEB API.MvcApplicationPartsAssemblyInfo.cache
+C:\Github\Modul-295-Projektarbeit\Modul 295 Projektarbeit\WEB API\WEB API\obj\Debug\net7.0\staticwebassets\msbuild.WEB API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Github\Modul-295-Projektarbeit\Modul 295 Projektarbeit\WEB API\WEB API\obj\Debug\net7.0\staticwebassets\msbuild.build.WEB API.props
+C:\Github\Modul-295-Projektarbeit\Modul 295 Projektarbeit\WEB API\WEB API\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.WEB API.props
+C:\Github\Modul-295-Projektarbeit\Modul 295 Projektarbeit\WEB API\WEB API\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.WEB API.props
+C:\Github\Modul-295-Projektarbeit\Modul 295 Projektarbeit\WEB API\WEB API\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Github\Modul-295-Projektarbeit\Modul 295 Projektarbeit\WEB API\WEB API\obj\Debug\net7.0\staticwebassets.build.json
+C:\Github\Modul-295-Projektarbeit\Modul 295 Projektarbeit\WEB API\WEB API\obj\Debug\net7.0\staticwebassets.development.json
+C:\Github\Modul-295-Projektarbeit\Modul 295 Projektarbeit\WEB API\WEB API\obj\Debug\net7.0\scopedcss\bundle\WEB API.styles.css
+C:\Github\Modul-295-Projektarbeit\Modul 295 Projektarbeit\WEB API\WEB API\obj\Debug\net7.0\WEB API.csproj.CopyComplete
+C:\Github\Modul-295-Projektarbeit\Modul 295 Projektarbeit\WEB API\WEB API\obj\Debug\net7.0\WEB API.dll
+C:\Github\Modul-295-Projektarbeit\Modul 295 Projektarbeit\WEB API\WEB API\obj\Debug\net7.0\refint\WEB API.dll
+C:\Github\Modul-295-Projektarbeit\Modul 295 Projektarbeit\WEB API\WEB API\obj\Debug\net7.0\WEB API.pdb
+C:\Github\Modul-295-Projektarbeit\Modul 295 Projektarbeit\WEB API\WEB API\obj\Debug\net7.0\WEB API.genruntimeconfig.cache
+C:\Github\Modul-295-Projektarbeit\Modul 295 Projektarbeit\WEB API\WEB API\obj\Debug\net7.0\ref\WEB API.dll

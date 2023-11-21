@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "5scXzaicMZm5+nx01auDEXsgJSgNUPqe7fdjqvUyoCaKon0agKS4FBEkNww7qcYyd4YquxdwzhQw5GzaTG7ZWw==",
+  "dgSpecHash": "nWhZUOHBmCctykWj2LsgVTVr66ddBBIwGdxMJKyJwrVxTVtQDnRQTn4bbMbuK1LDqdG2QhEb6/CFwHhARMpAZw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\HansO\\OneDrive - ipso! Bildung\\Modul 295\\Projektarbeit\\Modul 295 Projektarbeit\\WEB API\\WEB API\\WEB API.csproj",
+  "projectFilePath": "C:\\Github\\Modul-295-Projektarbeit\\Modul 295 Projektarbeit\\WEB API\\WEB API\\WEB API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\HansO\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\HansO\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",

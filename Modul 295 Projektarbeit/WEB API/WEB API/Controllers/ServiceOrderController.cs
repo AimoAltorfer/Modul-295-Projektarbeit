@@ -105,8 +105,4 @@ public class ServiceOrderController : ControllerBase
 
         return NoContent();
     }
-
-
-
-
 }

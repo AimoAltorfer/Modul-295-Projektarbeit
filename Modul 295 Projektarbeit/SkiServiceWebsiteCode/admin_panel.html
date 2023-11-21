@@ -116,21 +116,14 @@ footer {
 
 
 <script>
+     // Aktualisiert einen Serviceauftrag mit neuen Daten
     function updateOrder(serviceOrderID) {
     // Sammelt die aktualisierten Daten aus den Input-Feldern
     var updatedData = {
         serviceOrderID: serviceOrderID,
-        customerName: document.querySelector(`#order-${serviceOrderID} .customer-name-input`).value,
-        customerEmail: document.querySelector(`#order-${serviceOrderID} .customer-email-input`).value,
-        customerPhone: document.querySelector(`#order-${serviceOrderID} .customer-phone`).value,
-        priority: document.querySelector(`#order-${serviceOrderID} .priority`).value,
-        serviceType: document.querySelector(`#order-${serviceOrderID} .service-type`).value,
-        createDate: new Date(document.querySelector(`#order-${serviceOrderID} .create-date`).value).toISOString(),
-        pickupDate: new Date(document.querySelector(`#order-${serviceOrderID} .pickup-date`).value).toISOString(),
-        status: document.querySelector(`#order-${serviceOrderID} .status`).value,
+        customerName: document.querySelector(`#order-${serviceOrderID} .customer-name-input`).value,customerEmail: document.querySelector(`#order-${serviceOrderID} .customer-email-input`).value,customerPhone: document.querySelector(`#order-${serviceOrderID} .customer-phone`).value,priority: document.querySelector(`#order-${serviceOrderID} .priority`).value,serviceType: document.querySelector(`#order-${serviceOrderID} .service-type`).value,createDate: new Date(document.querySelector(`#order-${serviceOrderID} .create-date`).value).toISOString(),pickupDate: new Date(document.querySelector(`#order-${serviceOrderID} .pickup-date`).value).toISOString(),status: document.querySelector(`#order-${serviceOrderID} .status`).value,
     };
-
-    // Sendet die PUT-Anfrage
+    // Sendet eine PUT-Anfrage an den Server
     fetch(`http://localhost:5293/ServiceOrder/${serviceOrderID}`, {
         method: 'PUT',
         headers: {
@@ -151,15 +144,14 @@ footer {
         alert('Fehler beim Aktualisieren der Bestellung');
     });
 }
-
-
+    // Löscht einen Serviceauftrag
     function deleteOrder(ServiceOrderID) {
             fetch(`http://localhost:5293/ServiceOrder/${ServiceOrderID}`, {
                 method: 'DELETE'
             })
             .then(response => {
                 if (response.ok) {
-                    location.reload()
+                    location.reload() // Neuladen der Seite bei erfolgreicher Aktualisierung
                 } else {
                     throw new Error('Fehler beim Löschen des Auftrags');
                 }
@@ -169,83 +161,69 @@ footer {
             });
     }
 
-// Funktion, um die Order-ID im versteckten Input-Feld zu setzen, wenn Sie das Formular öffnen
+// Setzt die Order-ID im versteckten Input-Feld
 function setUpdateStatusOrderId(orderId) {
     document.getElementById('updateStatusOrderId').value = orderId;
 }
 
-
+// Initialisiert die Datenanzeige beim Laden der Seite
     document.addEventListener('DOMContentLoaded', function () {
-        // API endpoint URL
         var apiUrl = 'http://localhost:5293/ServiceOrder'; 
-
+// API-Anfrage, um die Serviceaufträge zu erhalten
         fetch(apiUrl)
             .then(response => {
                 if (!response.ok) {
-                    throw new Error('Network response was not ok');
+                    throw new Error('Network Error');
                 }
                 return response.json();
             })
             .then(apiData => {
                 var container = document.getElementById('data-container');
                 container.className = 'container mt-4';
-
-                // Check if apiData is an array and has items
+                // Überprüft, ob Daten vorhanden sind und erstellt Karten für jeden Eintrag
                 if (Array.isArray(apiData) && apiData.length) {
                     apiData.forEach(function (item) {
-                        // Create and append the card only if item has data
                         if (item && typeof item === 'object') {
                             var card = document.createElement('div');
                             card.className = 'card mb-3';
-
-                            // Use a function to safely get the property or return a placeholder
                             function getPropertyOrDefault(obj, prop, defaultValue) {
                                 return obj.hasOwnProperty(prop) ? obj[prop] : defaultValue;
                             }
-
-                            // Use the function to safely format dates or return a placeholder
                             function formatDate(dateString) {
                                 var date = new Date(dateString);
                                 return isNaN(date.getTime()) ? 'Invalid Date' : date.toLocaleDateString();
                             }
-
-                            card.innerHTML = `
-                                <div id="order-${item.serviceOrderID}" class="card-header">
-                                    Name: <input type="text" class="form-control customer-name-input" value="${item.customerName}">
-                                </div>
-                                <div id="order-${item.serviceOrderID}" class="card-body">
-                                <h4 class="card-title">${item.serviceType}</h4>
-                                <p class="card-text">Email: <input type="email" class="form-control customer-email-input" value="${item.customerEmail}"></p>
-                                <p class="card-text">Telefon: <input type="tel" class="form-control customer-phone" value="${item.customerPhone}"></p>
-                                <p class="card-text">Priorität: <input type="text" class="form-control priority" value="${item.priority}"></p>
-                                <p class="card-text">Dienstleistung: <input type="text" class="form-control service-type" value="${item.serviceType}"></p>
-                                <p class="card-text">Erstellungsdatum: <input type="date" class="form-control create-date" value="${new Date(item.createDate).toISOString().split('T')[0]}"></p>
-                                <p class="card-text">Abholdatum: <input type="date" class="form-control pickup-date" value="${new Date(item.pickupDate).toISOString().split('T')[0]}"></p>
-                                <p class="card-text">Status: (Offen, InArbeit, Abgeschlossen)<input type="text" class="form-control status" value="${item.status}"></p>
-                                    <button class="btn btn-primary" onclick="updateOrder(${item.serviceOrderID})">Update</button>
-                                    <button class="btn btn-danger" onclick="deleteOrder(${item.serviceOrderID})">Delete</button>
-                                </div>
-                            `;
-
+card.innerHTML = `
+<div id="order-${item.serviceOrderID}" class="card-header">
+Name: <input type="text" class="form-control customer-name-input" value="${item.customerName}">
+</div>
+<div id="order-${item.serviceOrderID}" class="card-body">
+<h4 class="card-title">${item.serviceType}</h4>
+<p class="card-text">Email: <input type="email" class="form-control customer-email-input" value="${item.customerEmail}"></p>
+<p class="card-text">Telefon: <input type="tel" class="form-control customer-phone" value="${item.customerPhone}"></p>
+<p class="card-text">Priorität: <input type="text" class="form-control priority" value="${item.priority}"></p>
+<p class="card-text">Dienstleistung: <input type="text" class="form-control service-type" value="${item.serviceType}"></p>
+<p class="card-text">Erstellungsdatum: <input type="date" class="form-control create-date" value="${new Date(item.createDate).toISOString().split('T')[0]}"></p>
+<p class="card-text">Abholdatum: <input type="date" class="form-control pickup-date" value="${new Date(item.pickupDate).toISOString().split('T')[0]}"></p>
+<p class="card-text">Status: (Offen, InArbeit, Abgeschlossen)<input type="text" class="form-control status" value="${item.status}"></p>
+<button class="btn btn-primary" onclick="updateOrder(${item.serviceOrderID})">Update</button>
+<button class="btn btn-danger" onclick="deleteOrder(${item.serviceOrderID})">Delete</button>
+</div>
+`;
                             container.appendChild(card);
                         }
                     });
                 } else {
-                    // Handle the case where apiData is not an array or is empty
-                    container.innerText = 'No data available.';
+                    container.innerText = 'Keine Daten in der Datenbank';
                 }
             })
             .catch(error => {
-                console.error('Fehler beim Laden der API-Daten:', error);
-                // Display the error message to the user
+                console.error('Fehler:', error);
                 var container = document.getElementById('data-container');
-                container.innerText = 'Error loading data.';
+                container.innerText = 'Error beim Daten laden';
             });
     });
-
 </script>
-
-  <!-- Footer -->
   <footer class="bg-light text-black text-center p-3">        
     <p class="footer_text">©2023 Oberdorf IT</p>
 </footer>

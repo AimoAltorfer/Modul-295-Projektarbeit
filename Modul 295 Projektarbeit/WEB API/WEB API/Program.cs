@@ -6,7 +6,7 @@ using Microsoft.OpenApi.Models;
 
 var builder = WebApplication.CreateBuilder(args);
 
-// CORS fixer
+
 builder.Services.AddCors(options =>
 {
     options.AddDefaultPolicy(

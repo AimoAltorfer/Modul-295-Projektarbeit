@@ -3348,11 +3348,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\HansO\\OneDrive - ipso! Bildung\\Modul 295\\Projektarbeit\\Modul 295 Projektarbeit\\WEB API\\WEB API\\WEB API.csproj",
+      "projectUniqueName": "C:\\Github\\Modul-295-Projektarbeit\\Modul 295 Projektarbeit\\WEB API\\WEB API\\WEB API.csproj",
       "projectName": "WEB API",
-      "projectPath": "C:\\Users\\HansO\\OneDrive - ipso! Bildung\\Modul 295\\Projektarbeit\\Modul 295 Projektarbeit\\WEB API\\WEB API\\WEB API.csproj",
+      "projectPath": "C:\\Github\\Modul-295-Projektarbeit\\Modul 295 Projektarbeit\\WEB API\\WEB API\\WEB API.csproj",
       "packagesPath": "C:\\Users\\HansO\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\HansO\\OneDrive - ipso! Bildung\\Modul 295\\Projektarbeit\\Modul 295 Projektarbeit\\WEB API\\WEB API\\obj\\",
+      "outputPath": "C:\\Github\\Modul-295-Projektarbeit\\Modul 295 Projektarbeit\\WEB API\\WEB API\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\HansO\\AppData\\Roaming\\NuGet\\NuGet.Config",
