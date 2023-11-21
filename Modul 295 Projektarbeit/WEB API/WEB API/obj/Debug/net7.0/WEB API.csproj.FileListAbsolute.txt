@@ -1,0 +1,152 @@
+C:\Users\HansO\OneDrive - ipso! Bildung\Modul 295\Projektarbeit\Modul 295 Projektarbeit\WEB API\WEB API\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\HansO\OneDrive - ipso! Bildung\Modul 295\Projektarbeit\Modul 295 Projektarbeit\WEB API\WEB API\bin\Debug\net7.0\appsettings.json
+C:\Users\HansO\OneDrive - ipso! Bildung\Modul 295\Projektarbeit\Modul 295 Projektarbeit\WEB API\WEB API\bin\Debug\net7.0\WEB API.exe
+C:\Users\HansO\OneDrive - ipso! Bildung\Modul 295\Projektarbeit\Modul 295 Projektarbeit\WEB API\WEB API\bin\Debug\net7.0\WEB API.deps.json
+C:\Users\HansO\OneDrive - ipso! Bildung\Modul 295\Projektarbeit\Modul 295 Projektarbeit\WEB API\WEB API\bin\Debug\net7.0\WEB API.runtimeconfig.json
+C:\Users\HansO\OneDrive - ipso! Bildung\Modul 295\Projektarbeit\Modul 295 Projektarbeit\WEB API\WEB API\bin\Debug\net7.0\WEB API.dll
+C:\Users\HansO\OneDrive - ipso! Bildung\Modul 295\Projektarbeit\Modul 295 Projektarbeit\WEB API\WEB API\bin\Debug\net7.0\WEB API.pdb
+C:\Users\HansO\OneDrive - ipso! Bildung\Modul 295\Projektarbeit\Modul 295 Projektarbeit\WEB API\WEB API\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\HansO\OneDrive - ipso! Bildung\Modul 295\Projektarbeit\Modul 295 Projektarbeit\WEB API\WEB API\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\HansO\OneDrive - ipso! Bildung\Modul 295\Projektarbeit\Modul 295 Projektarbeit\WEB API\WEB API\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\HansO\OneDrive - ipso! Bildung\Modul 295\Projektarbeit\Modul 295 Projektarbeit\WEB API\WEB API\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\HansO\OneDrive - ipso! Bildung\Modul 295\Projektarbeit\Modul 295 Projektarbeit\WEB API\WEB API\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\HansO\OneDrive - ipso! Bildung\Modul 295\Projektarbeit\Modul 295 Projektarbeit\WEB API\WEB API\obj\Debug\net7.0\WEB API.csproj.AssemblyReference.cache
+C:\Users\HansO\OneDrive - ipso! Bildung\Modul 295\Projektarbeit\Modul 295 Projektarbeit\WEB API\WEB API\obj\Debug\net7.0\WEB API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HansO\OneDrive - ipso! Bildung\Modul 295\Projektarbeit\Modul 295 Projektarbeit\WEB API\WEB API\obj\Debug\net7.0\WEB API.AssemblyInfoInputs.cache
+C:\Users\HansO\OneDrive - ipso! Bildung\Modul 295\Projektarbeit\Modul 295 Projektarbeit\WEB API\WEB API\obj\Debug\net7.0\WEB API.AssemblyInfo.cs
+C:\Users\HansO\OneDrive - ipso! Bildung\Modul 295\Projektarbeit\Modul 295 Projektarbeit\WEB API\WEB API\obj\Debug\net7.0\WEB API.csproj.CoreCompileInputs.cache
+C:\Users\HansO\OneDrive - ipso! Bildung\Modul 295\Projektarbeit\Modul 295 Projektarbeit\WEB API\WEB API\obj\Debug\net7.0\WEB API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\HansO\OneDrive - ipso! Bildung\Modul 295\Projektarbeit\Modul 295 Projektarbeit\WEB API\WEB API\obj\Debug\net7.0\WEB API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\HansO\OneDrive - ipso! Bildung\Modul 295\Projektarbeit\Modul 295 Projektarbeit\WEB API\WEB API\obj\Debug\net7.0\staticwebassets\msbuild.WEB API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\HansO\OneDrive - ipso! Bildung\Modul 295\Projektarbeit\Modul 295 Projektarbeit\WEB API\WEB API\obj\Debug\net7.0\staticwebassets\msbuild.build.WEB API.props
+C:\Users\HansO\OneDrive - ipso! Bildung\Modul 295\Projektarbeit\Modul 295 Projektarbeit\WEB API\WEB API\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.WEB API.props
+C:\Users\HansO\OneDrive - ipso! Bildung\Modul 295\Projektarbeit\Modul 295 Projektarbeit\WEB API\WEB API\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.WEB API.props
+C:\Users\HansO\OneDrive - ipso! Bildung\Modul 295\Projektarbeit\Modul 295 Projektarbeit\WEB API\WEB API\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\HansO\OneDrive - ipso! Bildung\Modul 295\Projektarbeit\Modul 295 Projektarbeit\WEB API\WEB API\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\HansO\OneDrive - ipso! Bildung\Modul 295\Projektarbeit\Modul 295 Projektarbeit\WEB API\WEB API\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\HansO\OneDrive - ipso! Bildung\Modul 295\Projektarbeit\Modul 295 Projektarbeit\WEB API\WEB API\obj\Debug\net7.0\scopedcss\bundle\WEB API.styles.css
+C:\Users\HansO\OneDrive - ipso! Bildung\Modul 295\Projektarbeit\Modul 295 Projektarbeit\WEB API\WEB API\obj\Debug\net7.0\WEB API.csproj.CopyComplete
+C:\Users\HansO\OneDrive - ipso! Bildung\Modul 295\Projektarbeit\Modul 295 Projektarbeit\WEB API\WEB API\obj\Debug\net7.0\WEB API.dll
+C:\Users\HansO\OneDrive - ipso! Bildung\Modul 295\Projektarbeit\Modul 295 Projektarbeit\WEB API\WEB API\obj\Debug\net7.0\refint\WEB API.dll
+C:\Users\HansO\OneDrive - ipso! Bildung\Modul 295\Projektarbeit\Modul 295 Projektarbeit\WEB API\WEB API\obj\Debug\net7.0\WEB API.pdb
+C:\Users\HansO\OneDrive - ipso! Bildung\Modul 295\Projektarbeit\Modul 295 Projektarbeit\WEB API\WEB API\obj\Debug\net7.0\WEB API.genruntimeconfig.cache
+C:\Users\HansO\OneDrive - ipso! Bildung\Modul 295\Projektarbeit\Modul 295 Projektarbeit\WEB API\WEB API\obj\Debug\net7.0\ref\WEB API.dll
+C:\Users\HansO\OneDrive - ipso! Bildung\Modul 295\Projektarbeit\Modul 295 Projektarbeit\WEB API\WEB API\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\HansO\OneDrive - ipso! Bildung\Modul 295\Projektarbeit\Modul 295 Projektarbeit\WEB API\WEB API\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\HansO\OneDrive - ipso! Bildung\Modul 295\Projektarbeit\Modul 295 Projektarbeit\WEB API\WEB API\bin\Debug\net7.0\Humanizer.dll
+C:\Users\HansO\OneDrive - ipso! Bildung\Modul 295\Projektarbeit\Modul 295 Projektarbeit\WEB API\WEB API\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\HansO\OneDrive - ipso! Bildung\Modul 295\Projektarbeit\Modul 295 Projektarbeit\WEB API\WEB API\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\HansO\OneDrive - ipso! Bildung\Modul 295\Projektarbeit\Modul 295 Projektarbeit\WEB API\WEB API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\HansO\OneDrive - ipso! Bildung\Modul 295\Projektarbeit\Modul 295 Projektarbeit\WEB API\WEB API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\HansO\OneDrive - ipso! Bildung\Modul 295\Projektarbeit\Modul 295 Projektarbeit\WEB API\WEB API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\HansO\OneDrive - ipso! Bildung\Modul 295\Projektarbeit\Modul 295 Projektarbeit\WEB API\WEB API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\HansO\OneDrive - ipso! Bildung\Modul 295\Projektarbeit\Modul 295 Projektarbeit\WEB API\WEB API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\HansO\OneDrive - ipso! Bildung\Modul 295\Projektarbeit\Modul 295 Projektarbeit\WEB API\WEB API\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\HansO\OneDrive - ipso! Bildung\Modul 295\Projektarbeit\Modul 295 Projektarbeit\WEB API\WEB API\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\HansO\OneDrive - ipso! Bildung\Modul 295\Projektarbeit\Modul 295 Projektarbeit\WEB API\WEB API\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\HansO\OneDrive - ipso! Bildung\Modul 295\Projektarbeit\Modul 295 Projektarbeit\WEB API\WEB API\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\HansO\OneDrive - ipso! Bildung\Modul 295\Projektarbeit\Modul 295 Projektarbeit\WEB API\WEB API\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\HansO\OneDrive - ipso! Bildung\Modul 295\Projektarbeit\Modul 295 Projektarbeit\WEB API\WEB API\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\HansO\OneDrive - ipso! Bildung\Modul 295\Projektarbeit\Modul 295 Projektarbeit\WEB API\WEB API\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\HansO\OneDrive - ipso! Bildung\Modul 295\Projektarbeit\Modul 295 Projektarbeit\WEB API\WEB API\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\HansO\OneDrive - ipso! Bildung\Modul 295\Projektarbeit\Modul 295 Projektarbeit\WEB API\WEB API\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\HansO\OneDrive - ipso! Bildung\Modul 295\Projektarbeit\Modul 295 Projektarbeit\WEB API\WEB API\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\HansO\OneDrive - ipso! Bildung\Modul 295\Projektarbeit\Modul 295 Projektarbeit\WEB API\WEB API\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\HansO\OneDrive - ipso! Bildung\Modul 295\Projektarbeit\Modul 295 Projektarbeit\WEB API\WEB API\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\HansO\OneDrive - ipso! Bildung\Modul 295\Projektarbeit\Modul 295 Projektarbeit\WEB API\WEB API\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\HansO\OneDrive - ipso! Bildung\Modul 295\Projektarbeit\Modul 295 Projektarbeit\WEB API\WEB API\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\HansO\OneDrive - ipso! Bildung\Modul 295\Projektarbeit\Modul 295 Projektarbeit\WEB API\WEB API\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\HansO\OneDrive - ipso! Bildung\Modul 295\Projektarbeit\Modul 295 Projektarbeit\WEB API\WEB API\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\HansO\OneDrive - ipso! Bildung\Modul 295\Projektarbeit\Modul 295 Projektarbeit\WEB API\WEB API\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\HansO\OneDrive - ipso! Bildung\Modul 295\Projektarbeit\Modul 295 Projektarbeit\WEB API\WEB API\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\HansO\OneDrive - ipso! Bildung\Modul 295\Projektarbeit\Modul 295 Projektarbeit\WEB API\WEB API\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\HansO\OneDrive - ipso! Bildung\Modul 295\Projektarbeit\Modul 295 Projektarbeit\WEB API\WEB API\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\HansO\OneDrive - ipso! Bildung\Modul 295\Projektarbeit\Modul 295 Projektarbeit\WEB API\WEB API\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\HansO\OneDrive - ipso! Bildung\Modul 295\Projektarbeit\Modul 295 Projektarbeit\WEB API\WEB API\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\HansO\OneDrive - ipso! Bildung\Modul 295\Projektarbeit\Modul 295 Projektarbeit\WEB API\WEB API\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\HansO\OneDrive - ipso! Bildung\Modul 295\Projektarbeit\Modul 295 Projektarbeit\WEB API\WEB API\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\HansO\OneDrive - ipso! Bildung\Modul 295\Projektarbeit\Modul 295 Projektarbeit\WEB API\WEB API\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\HansO\OneDrive - ipso! Bildung\Modul 295\Projektarbeit\Modul 295 Projektarbeit\WEB API\WEB API\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\HansO\OneDrive - ipso! Bildung\Modul 295\Projektarbeit\Modul 295 Projektarbeit\WEB API\WEB API\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\HansO\OneDrive - ipso! Bildung\Modul 295\Projektarbeit\Modul 295 Projektarbeit\WEB API\WEB API\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\HansO\OneDrive - ipso! Bildung\Modul 295\Projektarbeit\Modul 295 Projektarbeit\WEB API\WEB API\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\HansO\OneDrive - ipso! Bildung\Modul 295\Projektarbeit\Modul 295 Projektarbeit\WEB API\WEB API\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\HansO\OneDrive - ipso! Bildung\Modul 295\Projektarbeit\Modul 295 Projektarbeit\WEB API\WEB API\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\HansO\OneDrive - ipso! Bildung\Modul 295\Projektarbeit\Modul 295 Projektarbeit\WEB API\WEB API\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\HansO\OneDrive - ipso! Bildung\Modul 295\Projektarbeit\Modul 295 Projektarbeit\WEB API\WEB API\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\aimoa\OneDrive - ipso! Bildung\Modul 295\Projektarbeit\Modul 295 Projektarbeit\WEB API\WEB API\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\aimoa\OneDrive - ipso! Bildung\Modul 295\Projektarbeit\Modul 295 Projektarbeit\WEB API\WEB API\bin\Debug\net7.0\appsettings.json
+C:\Users\aimoa\OneDrive - ipso! Bildung\Modul 295\Projektarbeit\Modul 295 Projektarbeit\WEB API\WEB API\bin\Debug\net7.0\WEB API.exe
+C:\Users\aimoa\OneDrive - ipso! Bildung\Modul 295\Projektarbeit\Modul 295 Projektarbeit\WEB API\WEB API\bin\Debug\net7.0\WEB API.deps.json
+C:\Users\aimoa\OneDrive - ipso! Bildung\Modul 295\Projektarbeit\Modul 295 Projektarbeit\WEB API\WEB API\bin\Debug\net7.0\WEB API.runtimeconfig.json
+C:\Users\aimoa\OneDrive - ipso! Bildung\Modul 295\Projektarbeit\Modul 295 Projektarbeit\WEB API\WEB API\bin\Debug\net7.0\WEB API.dll
+C:\Users\aimoa\OneDrive - ipso! Bildung\Modul 295\Projektarbeit\Modul 295 Projektarbeit\WEB API\WEB API\bin\Debug\net7.0\WEB API.pdb
+C:\Users\aimoa\OneDrive - ipso! Bildung\Modul 295\Projektarbeit\Modul 295 Projektarbeit\WEB API\WEB API\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\aimoa\OneDrive - ipso! Bildung\Modul 295\Projektarbeit\Modul 295 Projektarbeit\WEB API\WEB API\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\aimoa\OneDrive - ipso! Bildung\Modul 295\Projektarbeit\Modul 295 Projektarbeit\WEB API\WEB API\bin\Debug\net7.0\Humanizer.dll
+C:\Users\aimoa\OneDrive - ipso! Bildung\Modul 295\Projektarbeit\Modul 295 Projektarbeit\WEB API\WEB API\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\aimoa\OneDrive - ipso! Bildung\Modul 295\Projektarbeit\Modul 295 Projektarbeit\WEB API\WEB API\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\aimoa\OneDrive - ipso! Bildung\Modul 295\Projektarbeit\Modul 295 Projektarbeit\WEB API\WEB API\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\aimoa\OneDrive - ipso! Bildung\Modul 295\Projektarbeit\Modul 295 Projektarbeit\WEB API\WEB API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\aimoa\OneDrive - ipso! Bildung\Modul 295\Projektarbeit\Modul 295 Projektarbeit\WEB API\WEB API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\aimoa\OneDrive - ipso! Bildung\Modul 295\Projektarbeit\Modul 295 Projektarbeit\WEB API\WEB API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\aimoa\OneDrive - ipso! Bildung\Modul 295\Projektarbeit\Modul 295 Projektarbeit\WEB API\WEB API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\aimoa\OneDrive - ipso! Bildung\Modul 295\Projektarbeit\Modul 295 Projektarbeit\WEB API\WEB API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\aimoa\OneDrive - ipso! Bildung\Modul 295\Projektarbeit\Modul 295 Projektarbeit\WEB API\WEB API\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\aimoa\OneDrive - ipso! Bildung\Modul 295\Projektarbeit\Modul 295 Projektarbeit\WEB API\WEB API\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\aimoa\OneDrive - ipso! Bildung\Modul 295\Projektarbeit\Modul 295 Projektarbeit\WEB API\WEB API\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\aimoa\OneDrive - ipso! Bildung\Modul 295\Projektarbeit\Modul 295 Projektarbeit\WEB API\WEB API\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\aimoa\OneDrive - ipso! Bildung\Modul 295\Projektarbeit\Modul 295 Projektarbeit\WEB API\WEB API\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\aimoa\OneDrive - ipso! Bildung\Modul 295\Projektarbeit\Modul 295 Projektarbeit\WEB API\WEB API\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\aimoa\OneDrive - ipso! Bildung\Modul 295\Projektarbeit\Modul 295 Projektarbeit\WEB API\WEB API\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\aimoa\OneDrive - ipso! Bildung\Modul 295\Projektarbeit\Modul 295 Projektarbeit\WEB API\WEB API\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\aimoa\OneDrive - ipso! Bildung\Modul 295\Projektarbeit\Modul 295 Projektarbeit\WEB API\WEB API\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\aimoa\OneDrive - ipso! Bildung\Modul 295\Projektarbeit\Modul 295 Projektarbeit\WEB API\WEB API\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\aimoa\OneDrive - ipso! Bildung\Modul 295\Projektarbeit\Modul 295 Projektarbeit\WEB API\WEB API\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\aimoa\OneDrive - ipso! Bildung\Modul 295\Projektarbeit\Modul 295 Projektarbeit\WEB API\WEB API\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\aimoa\OneDrive - ipso! Bildung\Modul 295\Projektarbeit\Modul 295 Projektarbeit\WEB API\WEB API\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\aimoa\OneDrive - ipso! Bildung\Modul 295\Projektarbeit\Modul 295 Projektarbeit\WEB API\WEB API\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\aimoa\OneDrive - ipso! Bildung\Modul 295\Projektarbeit\Modul 295 Projektarbeit\WEB API\WEB API\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\aimoa\OneDrive - ipso! Bildung\Modul 295\Projektarbeit\Modul 295 Projektarbeit\WEB API\WEB API\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\aimoa\OneDrive - ipso! Bildung\Modul 295\Projektarbeit\Modul 295 Projektarbeit\WEB API\WEB API\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\aimoa\OneDrive - ipso! Bildung\Modul 295\Projektarbeit\Modul 295 Projektarbeit\WEB API\WEB API\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\aimoa\OneDrive - ipso! Bildung\Modul 295\Projektarbeit\Modul 295 Projektarbeit\WEB API\WEB API\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\aimoa\OneDrive - ipso! Bildung\Modul 295\Projektarbeit\Modul 295 Projektarbeit\WEB API\WEB API\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\aimoa\OneDrive - ipso! Bildung\Modul 295\Projektarbeit\Modul 295 Projektarbeit\WEB API\WEB API\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\aimoa\OneDrive - ipso! Bildung\Modul 295\Projektarbeit\Modul 295 Projektarbeit\WEB API\WEB API\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\aimoa\OneDrive - ipso! Bildung\Modul 295\Projektarbeit\Modul 295 Projektarbeit\WEB API\WEB API\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\aimoa\OneDrive - ipso! Bildung\Modul 295\Projektarbeit\Modul 295 Projektarbeit\WEB API\WEB API\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\aimoa\OneDrive - ipso! Bildung\Modul 295\Projektarbeit\Modul 295 Projektarbeit\WEB API\WEB API\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\aimoa\OneDrive - ipso! Bildung\Modul 295\Projektarbeit\Modul 295 Projektarbeit\WEB API\WEB API\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\aimoa\OneDrive - ipso! Bildung\Modul 295\Projektarbeit\Modul 295 Projektarbeit\WEB API\WEB API\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\aimoa\OneDrive - ipso! Bildung\Modul 295\Projektarbeit\Modul 295 Projektarbeit\WEB API\WEB API\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\aimoa\OneDrive - ipso! Bildung\Modul 295\Projektarbeit\Modul 295 Projektarbeit\WEB API\WEB API\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\aimoa\OneDrive - ipso! Bildung\Modul 295\Projektarbeit\Modul 295 Projektarbeit\WEB API\WEB API\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\aimoa\OneDrive - ipso! Bildung\Modul 295\Projektarbeit\Modul 295 Projektarbeit\WEB API\WEB API\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\aimoa\OneDrive - ipso! Bildung\Modul 295\Projektarbeit\Modul 295 Projektarbeit\WEB API\WEB API\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\aimoa\OneDrive - ipso! Bildung\Modul 295\Projektarbeit\Modul 295 Projektarbeit\WEB API\WEB API\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\aimoa\OneDrive - ipso! Bildung\Modul 295\Projektarbeit\Modul 295 Projektarbeit\WEB API\WEB API\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\aimoa\OneDrive - ipso! Bildung\Modul 295\Projektarbeit\Modul 295 Projektarbeit\WEB API\WEB API\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\aimoa\OneDrive - ipso! Bildung\Modul 295\Projektarbeit\Modul 295 Projektarbeit\WEB API\WEB API\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\aimoa\OneDrive - ipso! Bildung\Modul 295\Projektarbeit\Modul 295 Projektarbeit\WEB API\WEB API\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\aimoa\OneDrive - ipso! Bildung\Modul 295\Projektarbeit\Modul 295 Projektarbeit\WEB API\WEB API\obj\Debug\net7.0\WEB API.csproj.AssemblyReference.cache
+C:\Users\aimoa\OneDrive - ipso! Bildung\Modul 295\Projektarbeit\Modul 295 Projektarbeit\WEB API\WEB API\obj\Debug\net7.0\WEB API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aimoa\OneDrive - ipso! Bildung\Modul 295\Projektarbeit\Modul 295 Projektarbeit\WEB API\WEB API\obj\Debug\net7.0\WEB API.AssemblyInfoInputs.cache
+C:\Users\aimoa\OneDrive - ipso! Bildung\Modul 295\Projektarbeit\Modul 295 Projektarbeit\WEB API\WEB API\obj\Debug\net7.0\WEB API.AssemblyInfo.cs
+C:\Users\aimoa\OneDrive - ipso! Bildung\Modul 295\Projektarbeit\Modul 295 Projektarbeit\WEB API\WEB API\obj\Debug\net7.0\WEB API.csproj.CoreCompileInputs.cache
+C:\Users\aimoa\OneDrive - ipso! Bildung\Modul 295\Projektarbeit\Modul 295 Projektarbeit\WEB API\WEB API\obj\Debug\net7.0\WEB API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\aimoa\OneDrive - ipso! Bildung\Modul 295\Projektarbeit\Modul 295 Projektarbeit\WEB API\WEB API\obj\Debug\net7.0\WEB API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\aimoa\OneDrive - ipso! Bildung\Modul 295\Projektarbeit\Modul 295 Projektarbeit\WEB API\WEB API\obj\Debug\net7.0\staticwebassets\msbuild.WEB API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\aimoa\OneDrive - ipso! Bildung\Modul 295\Projektarbeit\Modul 295 Projektarbeit\WEB API\WEB API\obj\Debug\net7.0\staticwebassets\msbuild.build.WEB API.props
+C:\Users\aimoa\OneDrive - ipso! Bildung\Modul 295\Projektarbeit\Modul 295 Projektarbeit\WEB API\WEB API\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.WEB API.props
+C:\Users\aimoa\OneDrive - ipso! Bildung\Modul 295\Projektarbeit\Modul 295 Projektarbeit\WEB API\WEB API\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.WEB API.props
+C:\Users\aimoa\OneDrive - ipso! Bildung\Modul 295\Projektarbeit\Modul 295 Projektarbeit\WEB API\WEB API\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\aimoa\OneDrive - ipso! Bildung\Modul 295\Projektarbeit\Modul 295 Projektarbeit\WEB API\WEB API\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\aimoa\OneDrive - ipso! Bildung\Modul 295\Projektarbeit\Modul 295 Projektarbeit\WEB API\WEB API\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\aimoa\OneDrive - ipso! Bildung\Modul 295\Projektarbeit\Modul 295 Projektarbeit\WEB API\WEB API\obj\Debug\net7.0\scopedcss\bundle\WEB API.styles.css
+C:\Users\aimoa\OneDrive - ipso! Bildung\Modul 295\Projektarbeit\Modul 295 Projektarbeit\WEB API\WEB API\obj\Debug\net7.0\WEB API.csproj.CopyComplete
+C:\Users\aimoa\OneDrive - ipso! Bildung\Modul 295\Projektarbeit\Modul 295 Projektarbeit\WEB API\WEB API\obj\Debug\net7.0\WEB API.dll
+C:\Users\aimoa\OneDrive - ipso! Bildung\Modul 295\Projektarbeit\Modul 295 Projektarbeit\WEB API\WEB API\obj\Debug\net7.0\refint\WEB API.dll
+C:\Users\aimoa\OneDrive - ipso! Bildung\Modul 295\Projektarbeit\Modul 295 Projektarbeit\WEB API\WEB API\obj\Debug\net7.0\WEB API.pdb
+C:\Users\aimoa\OneDrive - ipso! Bildung\Modul 295\Projektarbeit\Modul 295 Projektarbeit\WEB API\WEB API\obj\Debug\net7.0\WEB API.genruntimeconfig.cache
+C:\Users\aimoa\OneDrive - ipso! Bildung\Modul 295\Projektarbeit\Modul 295 Projektarbeit\WEB API\WEB API\obj\Debug\net7.0\ref\WEB API.dll

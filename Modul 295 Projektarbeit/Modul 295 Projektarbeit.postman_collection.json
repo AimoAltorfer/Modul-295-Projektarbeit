@@ -1,0 +1,149 @@
+{
+	"info": {
+		"_postman_id": "248f6e78-b460-48ec-987a-ce597684e8b2",
+		"name": "Modul 295 Projektarbeit",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "29157893"
+	},
+	"item": [
+		{
+			"name": "GET",
+			"request": {
+				"method": "GET",
+				"header": [
+					{
+						"key": "accept",
+						"value": "text/plain"
+					}
+				],
+				"url": {
+					"raw": "http://localhost:5293/ServiceOrder",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "5293",
+					"path": [
+						"ServiceOrder"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "GET BY ID",
+			"request": {
+				"method": "GET",
+				"header": [
+					{
+						"key": "accept",
+						"value": "text/plain"
+					}
+				],
+				"url": {
+					"raw": "http://localhost:5293/ServiceOrder/3",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "5293",
+					"path": [
+						"ServiceOrder",
+						"3"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "INSERT",
+			"request": {
+				"method": "POST",
+				"header": [
+					{
+						"key": "accept",
+						"value": "text/plain"
+					},
+					{
+						"key": "Content-Type",
+						"value": "application/json"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n  \"serviceOrderID\": 1,\n  \"customerName\": \"test\",\n  \"customerEmail\": \"string\",\n  \"customerPhone\": \"string\",\n  \"priority\": \"string\",\n  \"serviceType\": \"string\",\n  \"createDate\": \"2023-11-17T07:02:56.773Z\",\n  \"pickupDate\": \"2023-11-17T07:02:56.773Z\",\n  \"status\": \"string\"\n}"
+				},
+				"url": {
+					"raw": "http://localhost:5293/ServiceOrder",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "5293",
+					"path": [
+						"ServiceOrder"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "UPDATE",
+			"request": {
+				"method": "PUT",
+				"header": [
+					{
+						"key": "accept",
+						"value": "*/*"
+					},
+					{
+						"key": "Content-Type",
+						"value": "application/json"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n  \"serviceOrderID\": 0,\n  \"customerName\": \"string\",\n  \"customerEmail\": \"string\",\n  \"customerPhone\": \"string\",\n  \"priority\": \"string\",\n  \"serviceType\": \"string\",\n  \"createDate\": \"2023-11-17T08:31:37.375Z\",\n  \"pickupDate\": \"2023-11-17T08:31:37.375Z\",\n  \"status\": \"string\"\n}"
+				},
+				"url": {
+					"raw": "http://localhost:5293/ServiceOrder/6",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "5293",
+					"path": [
+						"ServiceOrder",
+						"6"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "DROP",
+			"request": {
+				"method": "DELETE",
+				"header": [
+					{
+						"key": "accept",
+						"value": "*/*"
+					}
+				],
+				"url": {
+					"raw": "http://localhost:5293/ServiceOrder/3",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "5293",
+					"path": [
+						"ServiceOrder",
+						"3"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
